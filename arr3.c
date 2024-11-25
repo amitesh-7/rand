@@ -13,7 +13,7 @@ int main(){
     int big=arr[0];
     for (int i = 1; i < n; i++)
     {
-        if (big<arr[i])
+        // if (big<arr[i])
         {
             big=arr[i];
         }
